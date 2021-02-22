@@ -1,0 +1,4 @@
+Um etwas in eine Datei in Python zu schreiben oder zu lesen, müssen wir sie zuerst öffnen.
+Um etwas in eine Datei in Python zu schreiben oder zu lesen, müssen wir sie zuerst öffnen.
+______
+Um etwas in eine Datei in Python zu schreiben oder zu lesen, müssen wir sie zuerst öffnen.
